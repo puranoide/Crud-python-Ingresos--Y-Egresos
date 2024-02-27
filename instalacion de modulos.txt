@@ -1,0 +1,12 @@
+
+pip install pysqlite3 
+
+pip install tk
+
+pip install customtkinter
+
+pip install tkcalendar
+
+pip install DateTime  
+
+pip install pandas
